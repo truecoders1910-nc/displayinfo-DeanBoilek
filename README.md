@@ -1,12 +1,12 @@
 # DisplayInfo
 
-##This is a project in practicing with git and pushing to GitHub.
+## This is a project in practicing with git and pushing to GitHub.
 
-##Steps:
+## Steps:
 1. Clone the repository from GitHub to your local machine.
 2. Once you have a copy of the repository on your machine, begin working on the assignment.
 
-##Program:
+## Program:
 1. Start by asking the user to give you their first name.
 2. Store their name within a variable.
 3. Repeat steps 1 and 2 with the users last name.
