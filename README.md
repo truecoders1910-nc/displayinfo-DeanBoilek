@@ -4,7 +4,7 @@
 
 ## Steps:
 1. Clone the repository from GitHub to your local machine.
-2. Once you have a copy of the repository on your machine, begin working on the assignment.
+2. Once you have a copy of the repository on your machine, create a branch and begin working on the assignment.
 
 ## Assignment:
   1. Start by asking the user to give you their first name.
@@ -18,6 +18,6 @@
   * If their favorite number is greater than 10, display it in green.
   * If their favorite number is less than 5, display it in red.
 
-### Make sure to make commits as you complete steps!
+### Make sure to make a branch and make commits when completing steps!
 
-3. After finishing the assignment, push the assignment back to GitHub.
+3. After finishing the assignment, push your branch to GitHub.
