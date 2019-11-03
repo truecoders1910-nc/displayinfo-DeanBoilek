@@ -6,6 +6,33 @@ namespace DisplayInfo
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your first name: ");
+            string firstName = Console.ReadLine ();
+            Console.Write("Enter your last name: ");
+            string lastName = Console.ReadLine();
+            Console.WriteLine("What's your favorite number?");
+            string favNum = Console.ReadLine();
+            Console.Write("Name your favorite animal: ");
+            string favAnimal = Console.ReadLine();
+            if (Convert.ToInt32(favNum) > 10)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+            }
+            else if (Convert.ToInt32(favNum) < 5)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            Console.WriteLine($"Your name is {firstName} {lastName}, your favorite number is {favNum}, and your favorite animal is a {favAnimal}");
+            Console.ReadLine();
+
+            
+            
+
+         
+
+
+
+
             // Get first and last name from user input
             // Get their favorite number
             // Get their favorite animal
